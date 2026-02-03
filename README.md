@@ -1,6 +1,6 @@
-# 🌌 Antigravity Awesome Skills: 627+ Agentic Skills for Claude Code, Gemini CLI, Cursor, Copilot & More
+# 🌌 Antigravity Awesome Skills: 2+ Agentic Skills for Claude Code, Gemini CLI, Cursor, Copilot & More
 
-> **The Ultimate Collection of 627+ Universal Agentic Skills for AI Coding Assistants — Claude Code, Gemini CLI, Codex CLI, Antigravity IDE, GitHub Copilot, Cursor, OpenCode, AdaL**
+> **The Ultimate Collection of 2+ Universal Agentic Skills for AI Coding Assistants — Claude Code, Gemini CLI, Codex CLI, Antigravity IDE, GitHub Copilot, Cursor, OpenCode, AdaL**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Anthropic-purple)](https://claude.ai)
@@ -12,7 +12,7 @@
 [![Antigravity](https://img.shields.io/badge/Antigravity-DeepMind-red)](https://github.com/sickn33/antigravity-awesome-skills)
 [![AdaL](https://img.shields.io/badge/AdaL-Self--evolving%20Agent-pink)](https://github.com/HumanSignal/Adala)
 
-**Antigravity Awesome Skills** is a curated, battle-tested library of **627 high-performance agentic skills** designed to work seamlessly across all major AI coding assistants:
+**Antigravity Awesome Skills** is a curated, battle-tested library of **2 high-performance agentic skills** designed to work seamlessly across all major AI coding assistants:
 
 - 🟣 **Claude Code** (Anthropic CLI)
 - 🔵 **Gemini CLI** (Google DeepMind)
@@ -31,7 +31,7 @@ This repository provides essential skills to transform your AI assistant into a 
 - [🔌 Compatibility & Invocation](#compatibility--invocation)
 - [📦 Features & Categories](#features--categories)
 - [🎁 Curated Collections (Bundles)](#curated-collections)
-- [📚 Browse 627+ Skills](#browse-627-skills)
+- [📚 Browse 2+ Skills](#browse-2-skills)
 - [🛠️ Installation](#installation)
 - [🤝 How to Contribute](#how-to-contribute)
 - [👥 Contributors & Credits](#credits--sources)
@@ -128,7 +128,7 @@ The repository is organized into specialized domains to transform your AI into a
 
 [Check out our Starter Packs in docs/BUNDLES.md](docs/BUNDLES.md) to find the perfect toolkit for your role.
 
-## Browse 627+ Skills
+## Browse 2+ Skills
 
 We have moved the full skill registry to a dedicated catalog to keep this README clean.
 
