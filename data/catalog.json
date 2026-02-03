@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-02-03T05:34:49.958Z",
-  "total": 2,
+  "generatedAt": "2026-02-03T05:36:19.426Z",
+  "total": 1,
   "skills": [
     {
       "id": "repair-service-specialist",
@@ -26,32 +26,6 @@
         "non"
       ],
       "path": "skills/repair-service-specialist/SKILL.md"
-    },
-    {
-      "id": "repair-service-specialist/skills/repair-service-specialist",
-      "name": "repair-service-specialist",
-      "description": "Expert AI agent for electronics repair business operations, technical troubleshooting, and local SEO growth. Use this when the user needs to audit repair workflows, draft customer communications, or optimize service pages for EEAT.",
-      "category": "infrastructure",
-      "tags": [
-        "repair",
-        "service",
-        "specialist/skills/repair"
-      ],
-      "triggers": [
-        "repair",
-        "service",
-        "specialist/skills/repair",
-        "ai",
-        "agent",
-        "electronics",
-        "business",
-        "operations",
-        "technical",
-        "troubleshooting",
-        "local",
-        "seo"
-      ],
-      "path": "skills/repair-service-specialist/skills/repair-service-specialist/SKILL.md"
     }
   ]
 }
