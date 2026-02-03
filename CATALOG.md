@@ -1,6 +1,6 @@
 # Skill Catalog
 
-Generated at: 2026-02-03T05:36:19.426Z
+Generated at: 2026-02-03T05:37:20.766Z
 
 Total skills: 1
 
@@ -8,4 +8,4 @@ Total skills: 1
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
-| `repair-service-specialist` | No-code automation democratizes workflow building. Zapier and Make (formerly Integromat) let non-developers automate business processes without writing code.... | repair, service | repair, service, zapier, no, code, automation, democratizes, building, formerly, integromat, let, non |
+| `repair-service-specialist` | Expert AI agent for electronics repair business operations, technical troubleshooting, and local SEO growth. Use this when the user needs to audit repair wor... | repair, service | repair, service, ai, agent, electronics, business, operations, technical, troubleshooting, local, seo, growth |
