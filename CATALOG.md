@@ -1,8 +1,8 @@
 # Skill Catalog
 
-Generated at: 2026-02-03T05:11:25.230Z
+Generated at: 2026-02-03T05:26:02.151Z
 
-Total skills: 626
+Total skills: 627
 
 ## architecture (60)
 
@@ -428,7 +428,7 @@ TRIGGER: "shopify", "shopify app", "checkout extension",... | shopify | shopify,
 | `writing-skills` | Use when creating, updating, or improving agent skills. | writing, skills | writing, skills, creating, updating, improving, agent |
 | `x-article-publisher-skill` | Publish articles to X/Twitter | x, article, publisher, skill | x, article, publisher, skill, publish, articles, twitter |
 
-## infrastructure (78)
+## infrastructure (79)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -496,6 +496,7 @@ TRIGGER: "shopify", "shopify app", "checkout extension",... | shopify | shopify,
 | `performance-testing-review-ai-review` | You are an expert AI-powered code review specialist combining automated static analysis, intelligent pattern recognition, and modern DevOps practices. Levera... | performance, ai | performance, ai, testing, review, powered, code, combining, automated, static, analysis, intelligent, recognition |
 | `prometheus-configuration` | Set up Prometheus for comprehensive metric collection, storage, and monitoring of infrastructure and applications. Use when implementing metrics collection, ... | prometheus, configuration | prometheus, configuration, set, up, metric, collection, storage, monitoring, infrastructure, applications, implementing, metrics |
 | `protocol-reverse-engineering` | Master network protocol reverse engineering including packet analysis, protocol dissection, and custom protocol documentation. Use when analyzing network tra... | protocol, reverse, engineering | protocol, reverse, engineering, network, including, packet, analysis, dissection, custom, documentation, analyzing, traffic |
+| `repair-service-specialist/skills/repair-service-specialist` | Expert AI agent for electronics repair business operations, technical troubleshooting, and local SEO growth. Use this when the user needs to audit repair wor... | repair, service, specialist/skills/repair | repair, service, specialist/skills/repair, ai, agent, electronics, business, operations, technical, troubleshooting, local, seo |
 | `server-management` | Server management principles and decision-making. Process management, monitoring strategy, and scaling decisions. Teaches thinking, not commands. | server | server, principles, decision, making, process, monitoring, scaling, decisions, teaches, thinking, commands |
 | `service-mesh-observability` | Implement comprehensive observability for service meshes including distributed tracing, metrics, and visualization. Use when setting up mesh monitoring, debu... | service, mesh, observability | service, mesh, observability, meshes, including, distributed, tracing, metrics, visualization, setting, up, monitoring |
 | `slo-implementation` | Define and implement Service Level Indicators (SLIs) and Service Level Objectives (SLOs) with error budgets and alerting. Use when establishing reliability t... | slo | slo, define, level, indicators, slis, objectives, slos, error, budgets, alerting, establishing, reliability |

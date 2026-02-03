@@ -4113,6 +4113,15 @@
     "source": "unknown"
   },
   {
+    "id": "repair-service-specialist",
+    "path": "skills/repair-service-specialist/skills/repair-service-specialist",
+    "category": "uncategorized",
+    "name": "repair-service-specialist",
+    "description": "Expert AI agent for electronics repair business operations, technical troubleshooting, and local SEO growth. Use this when the user needs to audit repair workflows, draft customer communications, or optimize service pages for EEAT.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
     "id": "requesting-code-review",
     "path": "skills/requesting-code-review",
     "category": "uncategorized",

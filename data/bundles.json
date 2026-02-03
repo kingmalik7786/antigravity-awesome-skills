@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-03T05:11:25.230Z",
+  "generatedAt": "2026-02-03T05:26:02.151Z",
   "bundles": {
     "core-dev": {
       "description": "Core development skills across languages, frameworks, and backend/frontend fundamentals.",
@@ -249,6 +249,7 @@
         "mtls-configuration",
         "network-engineer",
         "observability-monitoring-slo-implement",
+        "repair-service-specialist/skills/repair-service-specialist",
         "service-mesh-expert",
         "service-mesh-observability",
         "slo-implementation"
